@@ -1,0 +1,1 @@
+ Дата: 07/02/2022 21:07:04, название: search_max_intelligence, args: (['Hulk', 'Captain America', 'Thanos'],), kwargs: {}, Результат: {'name': 'Thanos', 'intelligence': 100}
